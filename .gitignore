@@ -1,0 +1,4 @@
+#Core files
+.env
+.env.local
+.enc.temp
